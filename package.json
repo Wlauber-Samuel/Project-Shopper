@@ -1,0 +1,19 @@
+{
+  "name": "shopper",
+  "version": "1.0.0",
+  "description": "Hello to Project-Shopper",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wlauber-Samuel/Project.git"
+  },
+  "author": "Wlauber-Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wlauber-Samuel/Project/issues"
+  },
+  "homepage": "https://github.com/Wlauber-Samuel/Project#readme"
+}
